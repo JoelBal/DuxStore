@@ -16,7 +16,7 @@ Node.js Express.js
 
 ## Tests
 https://github.com/JoelBal/DuxStore.git
-
+https://duxstorejb.herokuapp.com/
 ## Email
 joelbalkcom@gmail.com
 ## githubUsername
